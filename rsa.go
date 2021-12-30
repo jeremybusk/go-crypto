@@ -1,6 +1,3 @@
-//author: http://github.com/wongoo
-//date: 20190717
-
 package rsautil
 
 import (
